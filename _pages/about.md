@@ -1,14 +1,12 @@
 ---
-layout: about
-title: "Al Mahdi Sallam | Mechatronics & Robotics Engineer"
 permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% include base_path %}
 
 Hello! I'm Al Mahdi Sallam, a Mechatronics and Robotics Engineer based in Riyadh, Saudi Arabia.
 
