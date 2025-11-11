@@ -70,17 +70,17 @@ author:
 
   arxiv            : # URL - Update with the correct link to your profile
 
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
 
   inspire-hep      : # URL
 
   impactstory      : # URL
 
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #
 
   semantic         : # URL
 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
 
   researchgate     : # URL
 
@@ -96,7 +96,7 @@ author:
 
   dribbble         : # Username
 
-  github           : "academicpages"
+  github           : "mahdisallam860"
 
   kaggle           : # Username  
 
@@ -108,7 +108,7 @@ author:
 
   artstation       : # Username
 
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
 
   facebook         : # Username
 
@@ -126,7 +126,7 @@ author:
 
   lastfm           : # Username
 
-  linkedin         : "https://www.linkedin.com/inalmahdi-sallam/"
+  linkedin         : "https://www.linkedin.com/in/almahdi-sallam/"
 
   mastodon         : # URL
 
