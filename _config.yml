@@ -572,7 +572,7 @@ defaults:
 
       author_profile: true
 
-      share: true
+      share: false
 
 
 
